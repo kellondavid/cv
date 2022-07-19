@@ -50,7 +50,7 @@
         <h2>Education.</h2>
         <img class ="brain" src="images/brain.png" alt="brain-image">
           <p>I received my Bachelor's in Psychology from University of California, Riverside in 2018.<br>
-             During my senior year, I ran and successfully published my own study.<br>
+             During my senior year, I successfully ran and published my own study.<br>
             If you're interested, you can read about it <a class="footer-link" href="https://escholarship.org/content/qt7bh9x216/qt7bh9x216.pdf">here.</a></p>
         </div>
 
