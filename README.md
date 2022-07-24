@@ -32,7 +32,7 @@
         <div class="skill-row1">
           <img class="coding" src="images/coding.png" alt="computer-image">
           <h3>Design and Develop.</h3>
-          <p>I'm a back-end developer, working to eventually <br>
+          <p>I'm a front-end developer, working to eventually <br>
             become a full-stack developer.<br>
              I can design and help create your website using <br>
              the latest technologies available.</p>
